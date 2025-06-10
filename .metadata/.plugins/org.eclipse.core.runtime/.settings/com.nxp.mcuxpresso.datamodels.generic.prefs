@@ -1,0 +1,8 @@
+delete.wrong.sdk=true
+eclipse.preferences.version=1
+sdk.infer=true
+sdk.infer.toggle=true
+sdk.install.toggle=true
+sdk.install.zip=true
+sdk.manifests.versions.enabled=true
+sdk.paths.pref=/home/nxf91053/mcuxpresso/02/SDKPackages\:

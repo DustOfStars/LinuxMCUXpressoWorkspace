@@ -1,0 +1,17 @@
+../codec/fsl_wm8962.c:49:17:WM8962_StartSequence	32	static
+../codec/fsl_wm8962.c:93:17:WM8962_GCD_FLL	24	static
+../codec/fsl_wm8962.c:108:17:WM8962_GetClockDivider	24	static
+../codec/fsl_wm8962.c:137:17:WM8962_SetInternalFllConfig	64	static
+../codec/fsl_wm8962.c:246:17:WM8962_SetMasterClock	40	static
+../codec/fsl_wm8962.c:303:10:WM8962_Init	32	static
+../codec/fsl_wm8962.c:391:10:WM8962_Deinit	24	static
+../codec/fsl_wm8962.c:401:10:WM8962_SetProtocol	24	static
+../codec/fsl_wm8962.c:423:10:WM8962_SetModulePower	24	static
+../codec/fsl_wm8962.c:482:10:WM8962_SetDataRoute	24	static
+../codec/fsl_wm8962.c:545:10:WM8962_SetModuleVolume	32	static
+../codec/fsl_wm8962.c:634:10:WM8962_GetModuleVolume	24	static
+../codec/fsl_wm8962.c:659:10:WM8962_SetModuleMute	24	static
+../codec/fsl_wm8962.c:742:10:WM8962_ConfigDataFormat	40	static
+../codec/fsl_wm8962.c:876:10:WM8962_WriteReg	32	static
+../codec/fsl_wm8962.c:883:10:WM8962_ReadReg	40	static
+../codec/fsl_wm8962.c:896:10:WM8962_ModifyReg	32	static

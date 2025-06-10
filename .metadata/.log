@@ -1,0 +1,54 @@
+!SESSION 2025-05-29 07:49:15.719 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-05-29 07:49:37.541
+!MESSAGE Recreating part support. No part support available.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-05-29 07:52:35.874
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-05-29 07:52:38.010
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-05-29 08:00:20.166
+!MESSAGE Indexed 'evkcmimxrt1060_sai_edma_record_playback' (38 sources, 122 headers) in 4.67 sec: 12,408 declarations; 37,454 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2025-05-29 23:35:40.719 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-05-29 23:35:45.191
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2025-06-09 23:23:09.391 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-09 23:30:53.716
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-09 23:31:13.376
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-09 23:31:13.557
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='25.03.00', build='881 2025-03-28') will be installed.
+
+!ENTRY com.crt.log 1 0 2025-06-09 23:31:36.606
+!MESSAGE Resource '/home/nxf91053/mcuxpresso/02/SDKPackages/SDK_25_03_00_MIMXRT1170-EVKB/../../../../../devices/MIMXRT1176/mcuxpresso' does not exist in 'SDK_2.x_MIMXRT1170-EVKB' (zip = false). Looking for '../../../../../devices/MIMXRT1176/mcuxpresso/MIMXRT1170_SFDP_QSPI.cfx'.
+
+!ENTRY com.crt.log 1 0 2025-06-09 23:31:36.742
+!MESSAGE Resource '/home/nxf91053/mcuxpresso/02/SDKPackages/SDK_25_03_00_MIMXRT1170-EVKB/../../../../../devices/MIMXRT1176/mcuxpresso' does not exist in 'SDK_2.x_MIMXRT1170-EVKB' (zip = false). Looking for '../../../../../devices/MIMXRT1176/mcuxpresso/MIMXRT1170_SFDP_QSPI.cfx'.
+
+!ENTRY com.crt.log 1 0 2025-06-09 23:31:36.913
+!MESSAGE Resource '/home/nxf91053/mcuxpresso/02/SDKPackages/SDK_25_03_00_MIMXRT1170-EVKB/../../../../../devices/MIMXRT1176/mcuxpresso' does not exist in 'SDK_2.x_MIMXRT1170-EVKB' (zip = false). Looking for '../../../../../devices/MIMXRT1176/mcuxpresso/MIMXRT1170_SFDP_QSPI.cfx'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-09 23:31:56.508
+!MESSAGE Indexed 'evkbmimxrt1170_hello_world_cm7' (30 sources, 159 headers) in 8.56 sec: 13,986 declarations; 32,382 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

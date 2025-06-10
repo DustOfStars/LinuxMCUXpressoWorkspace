@@ -1,0 +1,6 @@
+/home/nxf91053/Documents/MCUXpresso_24.12.148/workspace/evkcmimxrt1060_sai_edma_record_playback/drivers/fsl_clock.h:1408:20:CLOCK_SetMux	24	static
+/home/nxf91053/Documents/MCUXpresso_24.12.148/workspace/evkcmimxrt1060_sai_edma_record_playback/drivers/fsl_clock.h:1460:20:CLOCK_SetDiv	24	static
+/home/nxf91053/Documents/MCUXpresso_24.12.148/workspace/evkcmimxrt1060_sai_edma_record_playback/drivers/fsl_dmamux.h:75:20:DMAMUX_EnableChannel	16	static
+/home/nxf91053/Documents/MCUXpresso_24.12.148/workspace/evkcmimxrt1060_sai_edma_record_playback/drivers/fsl_dmamux.h:110:20:DMAMUX_SetSource	24	static
+../board/hardware_init.c:78:6:BOARD_EnableSaiMclkOutput	16	static
+../board/hardware_init.c:90:6:BOARD_InitHardware	8	static
