@@ -52,3 +52,112 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-06-09 23:31:56.508
 !MESSAGE Indexed 'evkbmimxrt1170_hello_world_cm7' (30 sources, 159 headers) in 8.56 sec: 13,986 declarations; 32,382 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:07.679
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:07.776
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='25.03.00', build='881 2025-03-28') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.datamodels.generic 4 -1 2025-06-13 06:12:21.350
+!MESSAGE Archive '/home/nxf91053/mcuxpresso/02/SDKPackages/genavb_tsn-mcuxpresso-SDK_24_12_0-7_0_0.zip' does not contain any manifest file.1
+!STACK 0
+
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider$2.visitFile(SDKManifestProvider.java:730)
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider$2.visitFile(SDKManifestProvider.java:1)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882)
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider.refresh(SDKManifestProvider.java:684)
+	at com.nxp.mcuxpresso.core.datamodels.SDKChipVendorDatabase.refresh(SDKChipVendorDatabase.java:775)
+	at com.nxp.mcuxpresso.core.datamodels.ui.views.SDKView.doDBRefresh(SDKView.java:2044)
+	at com.nxp.mcuxpresso.core.datamodels.ui.jobs.SDKImportJob.run(SDKImportJob.java:162)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:21.717
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:21.846
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='25.03.00', build='881 2025-03-28') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 2 0 2025-06-13 06:12:41.854
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='25.03.00', build='881 2025-03-28') has not been imported because a newer/existing device has been already installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:43.604
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='24.12.00', build='871 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:12:43.688
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 2 0 2025-06-13 06:13:09.621
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='24.12.00', build='871 2025-01-14') has not been imported because a newer/existing device has been already installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:13:11.162
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:13:44.582
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='24.12.00', build='871 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:13:44.638
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:14:48.289
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='24.12.00', build='871 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:14:48.342
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.datamodels.generic 4 -1 2025-06-13 06:15:00.403
+!MESSAGE Archive '/home/nxf91053/mcuxpresso/02/SDKPackages/genavb_tsn-mcuxpresso-SDK_24_12_0-7_0_0.zip' does not contain any manifest file.1
+!STACK 0
+
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider$2.visitFile(SDKManifestProvider.java:730)
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider$2.visitFile(SDKManifestProvider.java:1)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2811)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2882)
+	at com.nxp.mcuxpresso.core.datamodels.providers.SDKManifestProvider.refresh(SDKManifestProvider.java:684)
+	at com.nxp.mcuxpresso.core.datamodels.SDKChipVendorDatabase.refresh(SDKChipVendorDatabase.java:775)
+	at com.nxp.mcuxpresso.datamodels.generic.ui.preferences.SDKPreferencePageInstall$2.run(SDKPreferencePageInstall.java:207)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:15:00.621
+!MESSAGE The device 'MIMXRT1176xxxxx' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1170-EVKB' (version='24.12.00', build='871 2025-01-14') will be installed.
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2025-06-13 06:15:00.673
+!MESSAGE The device 'MIMXRT1062xxxxB' (version='1.0.0') from SDK 'SDK_2.x_MIMXRT1060-EVKC' (version='24.12.00', build='epluginsite812 2025-01-14') will be installed.
+
+!ENTRY com.crt.log 4 -1 2025-06-17 01:04:32.920
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+!STACK 0
+java.lang.Exception: java.lang.Exception: Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+	at com.crt.utils.general.Reporter.log(Reporter.java:592)
+	at com.crt.config.database.TargetConfigManager$1.runInWorkspace(TargetConfigManager.java:410)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.Exception: Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+	at com.crt.config.database.TargetConfig.initFromString(TargetConfig.java:1332)
+	at com.crt.config.database.TargetConfig.init(TargetConfig.java:1205)
+	at com.crt.config.database.TargetConfig.<init>(TargetConfig.java:662)
+	at com.crt.config.database.TargetConfig.loadTargetConfig(TargetConfig.java:380)
+	at com.crt.config.database.TargetConfigManager$1.runInWorkspace(TargetConfigManager.java:375)
+	... 2 more
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:33.295
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-06-17 01:04:36.558
+!MESSAGE Indexed 'Project33_onboard_mic_gpio_RT1010' (36 sources, 60 headers) in 2.55 sec: 10,933 declarations; 35,469 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:45.669
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:45.687
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:45.694
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:50.205
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.
+
+!ENTRY com.crt.log 1 0 2025-06-17 01:04:50.261
+!MESSAGE Unable to find part support for NXP MIMXRT1011xxxxx in project Project33_onboard_mic_gpio_RT1010 Resetting to generic part for core cm7.

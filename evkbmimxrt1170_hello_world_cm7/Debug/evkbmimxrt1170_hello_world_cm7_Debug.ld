@@ -6,7 +6,7 @@
  * Generated linker script file for MIMXRT1176xxxxx
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2025年6月9日 下午11:32:23
+ * MCUXpresso IDE v24.12 [Build 148] [2025-01-10] on 2025年6月13日 上午7:02:59
  */
 
 INCLUDE "evkbmimxrt1170_hello_world_cm7_Debug_library.ld"
